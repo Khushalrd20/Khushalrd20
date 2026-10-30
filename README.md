@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing M.Tech in Computer Science & Engineering at IIT Kharagpur.
+- 🎓 M.Tech in Computer Science & Engineering at IIT Kharagpur (2025–2027).
 - 💻 Passionate about Software Engineering and Problem Solving.
 - 🚀 Solved 500+ problems on LeetCode.
 - 🌱 Currently strengthening Data Structures, Algorithms and System Design.
@@ -132,7 +132,7 @@
 - ⚡ Focused on optimizing time and space complexity.
 
 <p align="center">
-  <a href="https://leetcode.com/u/SPENCER.EXE/">
+  <a href="https://leetcode.com/u/khushalrdhumal/">
     <img src="https://img.shields.io/badge/LeetCode-View%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
@@ -142,13 +142,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khushal-dhumal/">
+  <a href="https://www.linkedin.com/in/khushalrdhumal24/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/Khushalrd20">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://leetcode.com/u/SPENCER.EXE/">
+  <a href="https://leetcode.com/u/khushalrdhumal/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
