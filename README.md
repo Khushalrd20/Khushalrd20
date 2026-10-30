@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Khushalrd20/Khushalrd20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Khushal Dhumal</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">M.Tech CSE Student at IIT Kharagpur | Software Developer</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Passionate about Software Development, Data Structures
+  and Algorithms, and Building Scalable Applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 M.Tech Computer Science & Engineering at IIT Kharagpur
+- 💻 Interested in Software Engineering and Backend Development
+- 🚀 Solved 500+ problems on LeetCode
+- 🌱 Currently strengthening DSA, OOP and System Design
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,sql" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql" />
+</p>
